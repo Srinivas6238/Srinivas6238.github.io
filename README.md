@@ -1,5 +1,6 @@
 ## Personal Porfolio Site
 
+https://srinivas6238.github.io/
 
 ## Built with
 
@@ -10,5 +11,5 @@
 
 ## Acknowledgments
 
-* [WOW.js](https://mynameismatthieu.com/WOW/) - Scrolling animation
+* [wow.js](https://wowjs.uk/) - Scrolling animation
 * [Font Awesome](https://fontawesome.com/?from=io/) - Icons used
